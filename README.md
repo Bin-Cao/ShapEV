@@ -29,7 +29,7 @@ model = EVsearch.EVkit('T91-LBE-Train.csv')
 model_type = 'XGBoost'  # Options: 'GradientBoosting', 'RandomForest', 'LightGBM', 'XGBoost'
 model.fit(model_type)
 
-# Calculate the equivalent value with a specified SHAP space (e.g., SPACE=7)
+
 model.shap(SPACE=7)
 ```
 
