@@ -1,0 +1,2 @@
+Equivalent value: y = -86.6312 + 0.0426 * Ust + 1.6588 * Time + 0.0521 * Power
+R² is 0.9580
