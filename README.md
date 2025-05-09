@@ -30,7 +30,7 @@ model_type = 'XGBoost'  # Options: 'GradientBoosting', 'RandomForest', 'LightGBM
 model.fit(model_type)
 
 
-model.shap(SPACE=7)
+model.shap(SPACE=7) # SPACE (int): Maximum number of combinations to return.
 ```
 
 
