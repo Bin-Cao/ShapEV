@@ -1,5 +1,5 @@
 
-# ShapEV
+# ShapEV | Paper : [JMI 2022](https://www.oaepublish.com/articles/jmi.2022.04) & [Aggregate 2025](https://onlinelibrary.wiley.com/doi/epdf/10.1002/agt2.70060)
 
 A package for identifying **Equivalent Value** based on joint SHAP values.
 
